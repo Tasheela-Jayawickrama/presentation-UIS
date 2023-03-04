@@ -1,0 +1,54 @@
+/*Global Styles*/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #346686;
+}
+h1, h2, h3, h4, h5, h6, p, label {
+    color: #99BAD5;
+}
+
+a{
+    color: #004C6D;
+    text-decoration: none;
+    font-weight: 900;
+}
+.btn{
+    background-color: #004C6D;
+    color: #99BAD5;
+    border: none;
+    height: 49px;
+}
+.btn:hover{
+    background-color: #004C6D;
+    color: #99BAD5;
+    cursor: pointer;
+    font-weight: 900;
+}
+.fa-trash-can{
+    color: darkred;
+    font-size: 45px;
+}
+.fa-trash-can:hover{
+    cursor: pointer;
+}
+/*Global Styles*/
+/*Login Page Style*/
+.form-control-size{
+    background-color: #88ABC7;
+    height: 49px;
+    border: none;
+}
+.form-control:hover{
+    background-color: #88ABC7;
+    border: none;
+}
+/*Login Page Style*/
+
+
+/*Login Page Style*/
+.text-area-form-control{
+    background-color: #88ABC7;
+    border: none;
+}
+/*Login Page Style*/
