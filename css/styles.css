@@ -47,8 +47,17 @@ a{
 
 
 /*Login Page Style*/
-.text-area-form-control{
+.text-area-form-control, .form-control:focus{
     background-color: #88ABC7;
     border: none;
 }
+.fa-user-plus, .fa-user-check{
+    font-size: 200px;
+    color: #88ABC7;
+}
 /*Login Page Style*/
+
+
+input[type="text"]:disabled {
+    background: #88ABC7;
+}
